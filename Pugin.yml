@@ -1,0 +1,9 @@
+name: Sound
+main: Sound\Main
+api: 3.0.0
+version: 1.0
+author: Zhorif
+
+commands:
+  test:
+    description: "Use sound test"
